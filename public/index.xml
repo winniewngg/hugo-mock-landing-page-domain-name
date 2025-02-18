@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Bootstrap Theme</title>
+    <title>StudySync</title>
     <link>http://localhost:1313/hugo-bootstrap-theme/</link>
-    <description>Recent content on Hugo Bootstrap Theme</description>
+    <description>Recent content on StudySync</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/hugo-bootstrap-theme/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-bootstrap-theme/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;[Open an issue] Please contact &lt;a href=&#34;mailto:winniew1@sas.upenn.edu&#34;&gt;winniew1@sas.upenn.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
