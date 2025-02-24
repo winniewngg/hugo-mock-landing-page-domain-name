@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue] Please contact winniew1@sas.upenn.edu
+[Open an issue](https://github.com/winniewngg/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
